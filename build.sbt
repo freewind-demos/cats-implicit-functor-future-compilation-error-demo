@@ -1,4 +1,4 @@
-name := "Scala Hello World Demo"
+name := "Cats Implicit Functor of Future Compliation Error Demo"
 
 version := "0.1"
 

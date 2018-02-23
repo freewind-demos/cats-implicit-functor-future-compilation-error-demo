@@ -1,7 +1,7 @@
 package example
 package platform.strategies
 
-import cats.implicits._
+//import cats.implicits._
 import cats.Functor
 import scala.concurrent.ExecutionContext.Implicits.global
 import scala.concurrent.Future
